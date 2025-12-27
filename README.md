@@ -75,3 +75,9 @@ Task Scheduling: Operating systems often maintain a list of active processes or 
 Memory Management: The heap memory itself is often managed as a linked list of free memory blocks. When a program requests memory, the OS traverses this list to find a block of suitable size.
 
 Undo Functionality: While a Doubly Linked List is better for this, a Singly Linked List can be used to store a history of states in simple applications, allowing traversal from the oldest state to the newest.
+
+*OUTPUT*:-
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/822d370a-1e44-49d1-a072-6a23d9f70111" />
+
+
